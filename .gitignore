@@ -1,8 +1,8 @@
-node_modules
-build
-release
-dist
-coverage
+node_modules/
+build/
+release/
+dist/
+coverage/
 
 .env
 .env.*
